@@ -68,3 +68,20 @@ background-color: lightskyblue;}
     margin: 0 auto !important;
     display: block !important;
 }
+
+.records h2 {
+    font-size: 28px;
+}
+
+.records li {
+    font-size: 20px;
+}
+
+.fav-people li,
+.fav-people ol li {
+    font-size: 20px;
+}
+
+.back-to-top {
+    font-size: 18px;
+}
